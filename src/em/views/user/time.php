@@ -1,7 +1,6 @@
 <?php
 
 
+foreach ($list as $l)
+	var_dump($l);
 
-
-var_dump($list[0]
-		);
